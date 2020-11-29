@@ -1,0 +1,23 @@
+rect {
+  fill: #125699;
+}
+
+.axes-lable {
+  font-size: 0.9rem;
+  fill: #8e8883;
+}
+
+.tick text {
+  color: #635f5d;
+}
+
+.tick line {
+  stroke: #c0c0bb;
+  stroke-dasharray: 4;
+}
+
+.char-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  fill: #635f5d;
+}
